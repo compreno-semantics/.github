@@ -1,4 +1,4 @@
-# ABBYY Compreno Semantic Hierarchy (simplified)
+# ABBYY Compreno Semantics
 
 <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/static/v1?label=license&message=CC-BY-NC-4.0&color=green"/></a>
 
