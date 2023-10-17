@@ -15,6 +15,6 @@ In the current repository, we suggest the following data:
 
 - First, we open the [shortened version of the hierarchy](https://github.com/compreno-semantics/semantic-hierarchy), where one can see only the hyperonym SCs.
 
-The hierarchy is presented in the form a .csv table which contains the information needed to visually re-create the Semantic Hierarchy as a tree for exploration.
+The hierarchy is presented in the form a .csv table which contains the information needed to visually re-create the Semantic Hierarchy as a tree for exploration. There is also a link provided with the GUI program for browsing the hierarchy.
 
-- Second, we suggest a 400 000 token [dataset](https://github.com/compreno-semantics/compreno-corpus) provided with the generalized version of the semantic markup, which includes the boundaries of the constituents, the generalized SCs and the generalized semantic roles between the constituents. The markup is converted into the UD format as the one that is well-known to most of the users. The UD markup contains morphological and syntactic information, but is not provided with the semantic level. Therefore, we have converted the morphological and syntactic representations of the ABBYY Compreno model into the UD format and enriched it with the semantical data.
+- Second, we open the [simplified version of the semantic slot list](https://github.com/compreno-semantics/semantic-slots) with examples in English and Russian.
