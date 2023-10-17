@@ -15,6 +15,6 @@ In the current repository, we suggest the following data:
 
 - First, we open the [shortened version of the hierarchy](https://github.com/compreno-semantics/semantic-hierarchy), where one can see only the hyperonym SCs.
 
-The hierarchy is presented in the form a .csv table which contains the information needed to visually re-create the Semantic Hierarchy as a tree for exploration. There is also a [link](https://drive.google.com/file/d/13StDOV0t6MR7R9lAMBCUhrGT9d8yj9Ga/view?usp=drive_link) provided with the GUI program for browsing the hierarchy (Windows only).
+The hierarchy is presented in the form a .csv table which contains the information needed to visually re-create the Semantic Hierarchy as a tree for exploration. We also provide a [link](https://drive.google.com/file/d/13StDOV0t6MR7R9lAMBCUhrGT9d8yj9Ga/view?usp=drive_link) to the GUI program for browsing the hierarchy (Windows only).
 
 - Second, we open the [simplified version of the semantic slot list](https://github.com/compreno-semantics/semantic-slots) with examples in English and Russian.
