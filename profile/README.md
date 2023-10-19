@@ -23,7 +23,7 @@ The hierarchy is presented in the form a .csv table which contains the informati
 # Compreno semantics references
 
 KV Anisimovich, K Yu Druzhkin, KA Zuev, FR Minlos, MA Petrova, and VP Selegei. 2012. Syntactic and
-semantic parser based on abbyy compreno linguistic technologies. // Proc Dialogue, Russian International
+semantic parser based on ABBYY Compreno linguistic technologies. // Proc Dialogue, Russian International
 Conference on Computational Linguistics, P 91–103.
 
 MA Petrova. 2014. The compreno semantic model: the universality problem. International Journal of Lexicography, 27(2):105–129.
@@ -34,7 +34,7 @@ multilingual lexical database. In Proceedings of
 the 3rd Workshop on Cognitive Aspects of the
 Lexicon, pages 215–230.
 
-Yudina M. V., Garaschuk R. V., Petrova M. A., Druzhkina A. A. 2018. Semi-Automatic Integration Of A New Language Into A Multilingual Nlp Model: The Case Of Japanese // Computational Linguistics and Intellectual Technologies.
+Yudina M. V., Garaschuk R. V., Petrova M. A., Druzhkina A. A. 2018. Semi-Automatic Integration Of A New Language Into A Multilingual NLP Model: The Case Of Japanese // Computational Linguistics and Intellectual Technologies.
 
 
 J Detkova, V Novitskiy, M Petrova, and V Selegey. 2020. Differential semantic sketches for russian internet corpora. // Computational Linguistics and Intellectual Technologies, P 211–227.
